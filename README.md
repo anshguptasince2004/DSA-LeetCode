@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
