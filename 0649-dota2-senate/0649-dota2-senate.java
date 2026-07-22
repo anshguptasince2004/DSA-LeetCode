@@ -16,7 +16,6 @@ class Solution {
             queue.offer(s);
         }
 
-        char temp;
         while(ActualR>0 && ActualD>0) {
             if(queue.poll() == 'R') {
                 if(R > 0) {
