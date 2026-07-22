@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
