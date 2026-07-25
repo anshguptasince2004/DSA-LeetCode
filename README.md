@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Stack
 |  |
@@ -55,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0622-design-circular-queue) |
+## Math
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
