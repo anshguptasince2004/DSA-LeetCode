@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0622-design-circular-queue](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
@@ -65,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
