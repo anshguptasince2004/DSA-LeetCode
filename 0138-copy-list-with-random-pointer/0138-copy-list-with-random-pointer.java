@@ -20,7 +20,6 @@ class Solution {
         }
         Node node = head;
         Node copy = new Node(head.val);
-        Node result = copy;
         HashMap<Node, Node> map = new HashMap<>();
         while(node != null) {
             map.put(node, copy);
@@ -33,13 +32,13 @@ class Solution {
             copy = copy.next;
         }
         node = head;
-        copy = result;
+        copy = map.get(head);
         while(copy!=null) {
             copy.next = map.get(node.next);
             copy.random = map.get(node.random);
             copy = copy.next;
             node = node.next;
         }
-        return result;
+        return map.get(head);
     }
 }
