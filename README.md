@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0649-dota2-senate) |
+| [1382-balance-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1382-balance-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1382-balance-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,4 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1382-balance-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
