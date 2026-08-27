@@ -14,21 +14,17 @@
  * }
  */
 class Solution {
-    boolean status = false;
-    int sum;
+
     public int rangeSumBST(TreeNode root, int low, int high) {
         if(root==null) {
             return 0;
         }
-        rangeSumBST(root.left, low, high);
-        if(root.val == low || status) {
-            sum+=root.val;
-            status = true;
-        } 
-        if(root.val == high) {
-            status = false;
+        if(root.val < low) {
+            return rangeSumBST(root.right, low, high);
         }
-        rangeSumBST(root.right, low, high);
-        return sum;
+        if(root.val > high) {
+            return rangeSumBST(root.left, low, high);
+        }
+        return root.val + rangeSumBST(root.left, low, high) + rangeSumBST(root.right, low, high);
     }
 }
