@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
