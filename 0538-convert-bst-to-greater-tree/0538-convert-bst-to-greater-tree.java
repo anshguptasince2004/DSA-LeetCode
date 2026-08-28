@@ -15,7 +15,6 @@
  */
 class Solution {
     int sum = 0;
-    TreeNode node = new TreeNode();
     public TreeNode convertBST(TreeNode root) {
         reverseInOrder(root);
         return root;
