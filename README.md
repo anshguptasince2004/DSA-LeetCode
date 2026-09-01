@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0622-design-circular-queue](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## String
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
@@ -229,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
