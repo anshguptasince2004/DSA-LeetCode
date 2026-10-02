@@ -13,14 +13,9 @@ class Solution {
             }
             count++;
         }
-        if(heap.isEmpty()) {
-            return arr.length-1+k;
+        while(!heap.isEmpty()) {
+            count = heap.poll();
         }
-        int res = 0;
-        while(k!=0) {
-            res = heap.poll();
-            k--;
-        }
-        return res;
+        return count;
     }
 }
