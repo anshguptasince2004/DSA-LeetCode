@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0622-design-circular-queue](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Linked List
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
