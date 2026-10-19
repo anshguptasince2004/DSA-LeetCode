@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Tree
 |  |
 | ------- |
@@ -254,4 +257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1046-last-stone-weight) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
