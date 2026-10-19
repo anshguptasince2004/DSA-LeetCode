@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0622-design-circular-queue](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1539-kth-missing-positive-number](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Linked List
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -256,6 +260,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
