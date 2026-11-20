@@ -275,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/anshguptasince2004/DSA-LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
